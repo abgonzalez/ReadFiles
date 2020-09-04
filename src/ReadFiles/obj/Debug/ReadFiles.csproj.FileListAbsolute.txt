@@ -1,0 +1,38 @@
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\obj\Debug\ReadFiles.csprojAssemblyReference.cache
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\obj\Debug\ReadFiles.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\ReadFiles.exe.config
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\ReadFiles.exe
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\ReadFiles.pdb
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\CsvHelper.dll
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\CsvHelper.xml
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\obj\Debug\ReadFiles.csproj.CopyComplete
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\obj\Debug\ReadFiles.exe
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\obj\Debug\ReadFiles.pdb
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\App.config
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\inputData\1.txt
+C:\Personal\Projects\Costa Express\ReadFiles\src\ReadFiles\ReadFiles\bin\Debug\inputData\2.txt
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\inputData\1.txt
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\inputData\2.txt
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\App.config
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\ReadFiles.exe.config
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\ReadFiles.exe
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\ReadFiles.pdb
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\CsvHelper.dll
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\CsvHelper.xml
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\obj\Debug\ReadFiles.csprojAssemblyReference.cache
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\obj\Debug\ReadFiles.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\obj\Debug\ReadFiles.csproj.CopyComplete
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\obj\Debug\ReadFiles.exe
+C:\Personal\Projects\00- CostaExpress\Costa Express\ReadFiles\src\ReadFiles\obj\Debug\ReadFiles.pdb
